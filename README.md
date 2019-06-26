@@ -3,7 +3,8 @@ Analyze PDF files and determine if they are suspicious or not.
 
 A simple and easy-to-use PDF Analyzer which can analyze new PDF files in real-time by using its static heuristic engine with the most common suspicious patterns of malicious PDF files.
 
-<img src="https://raw.githubusercontent.com/Zemana/PDFAnalyzer/master/gui.png" style=" width:100px ; height:100px " />
+<img src="https://raw.githubusercontent.com/Zemana/PDFAnalyzer/master/gui.png" style=" width:60px ; height:60px " />
+<img src="https://raw.githubusercontent.com/Zemana/PDFAnalyzer/master/report.png" style=" width:60px ; height:60px " />
 
 Features
 
