@@ -14,6 +14,8 @@ Features
 -Whitelist
 -Shannon Entropy and PDF obfuscation analysis
 
+Icon: https://www.iconfinder.com/icons/2749/pdf_icon
+
 Contributing
 
 The battle between the bad and the good. Send the bugs, feature requests and code submits. All are welcome and thank you for your contribution.
