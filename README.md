@@ -9,7 +9,7 @@ A simple and easy-to-use PDF Analyzer which can analyze new PDF files in real-ti
 Features
 
 -Realtime analysis of new PDF files<br/>
--On-demand folder and file analysis<br/>
+-On-demand folders and files analysis<br/>
 -Quarantine suspicious PDF files (with the ability to restore them)<br/>
 -Whitelist<br/>
 -Shannon Entropy and PDF obfuscation analysis<br/>
