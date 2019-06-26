@@ -8,11 +8,11 @@ A simple and easy-to-use PDF Analyzer which can analyze new PDF files in real-ti
 
 Features
 
--Realtime analysis of new PDF files
--On-demand folder and file analysis
--Quarantine suspicious PDF files (with the ability to restore them)
--Whitelist
--Shannon Entropy and PDF obfuscation analysis
+-Realtime analysis of new PDF files<br/>
+-On-demand folder and file analysis<br/>
+-Quarantine suspicious PDF files (with the ability to restore them)<br/>
+-Whitelist<br/>
+-Shannon Entropy and PDF obfuscation analysis<br/>
 
 Icon: https://www.iconfinder.com/icons/2749/pdf_icon
 
