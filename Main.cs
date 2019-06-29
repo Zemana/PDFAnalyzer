@@ -23,32 +23,17 @@ namespace PDFAnalyzer
         }
       
         public void EnableOrDisableUI(bool state) {
-            if(state == true)
-            {
-                label3.Visible = false;
+            
+                label3.Visible = !state;
                 this.Update();
-                this.RealtimeButton.Enabled = true;
-                this.AnalyzePDFButton.Enabled = true;
-                this.AnalyzeFolderButton.Enabled = true;
-                this.QuarantineButton.Enabled = true;
-                this.RestoreButton.Enabled = true;
-                this.DeleteButton.Enabled = true;
-                this.Home.Enabled = true;
-                this.WhitelistButton.Enabled = true;
-            }
-            else
-            {
-                label3.Visible = true;
-                this.Update();
-                this.RealtimeButton.Enabled = false;
-                this.AnalyzePDFButton.Enabled = false;
-                this.AnalyzeFolderButton.Enabled = false;
-                this.QuarantineButton.Enabled = false;
-                this.RestoreButton.Enabled = false;
-                this.DeleteButton.Enabled = false;
-                this.Home.Enabled = false;
-                this.WhitelistButton.Enabled = false;
-            }
+                this.RealtimeButton.Enabled = state;
+                this.AnalyzePDFButton.Enabled = state;
+                this.AnalyzeFolderButton.Enabled = state;
+                this.QuarantineButton.Enabled = state;
+                this.RestoreButton.Enabled = state;
+                this.DeleteButton.Enabled = state;
+                this.Home.Enabled = state;
+                this.WhitelistButton.Enabled = state;
         }
         private void home_Button(object sender, EventArgs e)
         {

@@ -1,0 +1,12 @@
+C:\Users\FabioHP\Source\Repos\PDFAnalyzer\bin\Debug\PDFAnalyzer.exe.config
+C:\Users\FabioHP\Source\Repos\PDFAnalyzer\bin\Debug\PDFAnalyzer.exe
+C:\Users\FabioHP\Source\Repos\PDFAnalyzer\bin\Debug\PDFAnalyzer.pdb
+C:\Users\FabioHP\Source\Repos\PDFAnalyzer\obj\Debug\PDFAnalyzer.csprojAssemblyReference.cache
+C:\Users\FabioHP\Source\Repos\PDFAnalyzer\obj\Debug\PDFAnalyzer.Main.resources
+C:\Users\FabioHP\Source\Repos\PDFAnalyzer\obj\Debug\PDFAnalyzer.ReportMain.resources
+C:\Users\FabioHP\Source\Repos\PDFAnalyzer\obj\Debug\PDFAnalyzer.Report.resources
+C:\Users\FabioHP\Source\Repos\PDFAnalyzer\obj\Debug\PDFAnalyzer.Properties.Resources.resources
+C:\Users\FabioHP\Source\Repos\PDFAnalyzer\obj\Debug\PDFAnalyzer.csproj.GenerateResource.cache
+C:\Users\FabioHP\Source\Repos\PDFAnalyzer\obj\Debug\PDFAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\FabioHP\Source\Repos\PDFAnalyzer\obj\Debug\PDFAnalyzer.exe
+C:\Users\FabioHP\Source\Repos\PDFAnalyzer\obj\Debug\PDFAnalyzer.pdb
